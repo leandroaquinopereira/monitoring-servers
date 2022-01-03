@@ -25,7 +25,7 @@ def send(ip):
            <p>O seguinte servidor se encontra offline: <b>{ip}</b></p>
            <p>Atenciosamente,</p>
            <p><font size="3" face="Verdana"><i><b>
-           Innovation Lab - Severs Monitoring
+           Severs Monitoring
            </b></i></font></p>
     """
     recipients = Servers.usersList()
